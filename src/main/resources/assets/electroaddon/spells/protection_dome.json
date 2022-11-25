@@ -1,0 +1,20 @@
+{
+  "enabled": {
+    "book": true,
+    "scroll": true,
+    "wands": true,
+    "npcs": false,
+    "dispensers": false,
+    "commands": true,
+    "treasure": true,
+    "trades": true,
+    "looting": true
+  },
+  "tier": "master",
+  "element": "sorcery",
+  "type": "defence",
+  "cost": 25,
+  "chargeup": 40,
+  "cooldown": 20,
+  "base_properties": {}
+}

@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "electroaddon",
+    "name": "Electro Addon",
+    "description": "Cool Electroblob's Wizardry addon!",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Give_Me_Moneyz"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

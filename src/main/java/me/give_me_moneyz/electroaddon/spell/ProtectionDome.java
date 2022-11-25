@@ -1,4 +1,4 @@
-package me.give_me_moneyz.electroaddon.spells;
+package me.give_me_moneyz.electroaddon.spell;
 
 import electroblob.wizardry.spell.Spell;
 import electroblob.wizardry.util.SpellModifiers;
@@ -8,8 +8,8 @@ import net.minecraft.item.EnumAction;
 import net.minecraft.util.EnumHand;
 import net.minecraft.world.World;
 
-public class ProtectionDomeSpell extends Spell {
-    public ProtectionDomeSpell() {
+public class ProtectionDome extends Spell {
+    public ProtectionDome() {
         super(ElectroAddon.MOD_ID, "protection_dome", EnumAction.NONE, false);
     }
 
